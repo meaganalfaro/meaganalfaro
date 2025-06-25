@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @meaganalfaro
 - 👀 I’m interested in web delevopment, cybersecurity, and machine learning!
-- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: linkedin @meaganalfaro 
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love dogs!
 
 <!---
