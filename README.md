@@ -5,8 +5,8 @@ I'm a Computer Science + Cybersecurity student at FIU passionate about building 
 Currently:
 - 🛠️ Product Development Intern @ Walky
 - 🤖 AI Fellow @ Break Through Tech x Cornell
-- 🌐 Contributed to the WiTCON 2024 event website as part of a 4-person team
-- 🎓 Expected to graduate FIU in 2026 (BS/MS combined)
+- 🌐 Contributed to the WiTCON 2025 event website as part of a 4-person team
+- 🎓 Expected to graduate FIU in 2027 (BS/MS combined)
 
 **Let’s connect:**  
 📫 meaganalfaro2@gmail.com  
