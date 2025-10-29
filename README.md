@@ -11,4 +11,4 @@ Currently:
 **Let’s connect:**  
 📫 meaganalfaro2@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/meaganalfaro/)  
-💻 [Portfolio] (https://www.malfaro.com/)
+💻 [Portfolio](https://www.malfaro.com/)
